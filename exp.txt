@@ -1,0 +1,11 @@
+LANGAGE
+Isil2018
+DEC
+float:: A,B,C,D;
+float :: K,S,Q;
+FINDEC
+DEBUT
+K:="manel" * "yasmine";
+FIN
+
+
